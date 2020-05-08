@@ -7,7 +7,7 @@ Create,Read,Delete,Update functionalities using MERN Stack
 {Move to src folder and then type command}
 > `npm start`
 ### Dependencies
-`
+```
 @material-ui/core 
 @material-ui/icons
 axios
@@ -23,4 +23,4 @@ react-bootstrap
 react-dom
 react-router-dom
 react-scripts
-`
+```
