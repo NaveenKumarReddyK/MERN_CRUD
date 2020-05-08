@@ -7,8 +7,8 @@ Create,Read,Delete,Update functionalities using MERN Stack
 {Move to src folder and then type command}
 > `npm start`
 ### Dependencies
->@material-ui/core 
->@material-ui/icons
+> @material-ui/core 
+> @material-ui/icons
 >axios
 >body-parser
 >bootstrap
