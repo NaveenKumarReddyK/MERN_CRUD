@@ -1,0 +1,23 @@
+input{
+    padding: 5px 10px;
+    font-size: 19px;
+    font-weight: bold;
+    color: red;
+    margin-top: 10px;
+    border-radius: 3px;
+    border: none;
+    border: 1px solid black;
+    background-color: rgb(222, 218, 255);
+}
+
+
+input.radioButton{
+    font-size: 19px;
+    font-weight: bold;
+}
+.createForm form{
+    width: 300px;
+    border: 2px solid red;
+    /* background-color: rgba(0, 0, 0, 0.521); */
+    border-radius: 3px;
+}
