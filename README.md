@@ -7,18 +7,18 @@ Create,Read,Delete,Update functionalities using MERN Stack
 {Move to src folder and then type command}
 > `npm start`
 ### Dependencies
->  "@material-ui/core" 
->   "@material-ui/icons" 
->    "axios"
->    "body-parser" 
->    "bootstrap" 
->    "cors" 
->    "express" 
->    "mongoose" 
->    "nodemon" 
->    "npm-font-open-sans" 
->    "react" 
->    "react-bootstrap" 
->    "react-dom" 
->    "react-router-dom" 
->    "react-scripts" 
+>@material-ui/core 
+>@material-ui/icons
+>axios
+>body-parser
+>bootstrap
+>cors
+>express
+>mongoose 
+>nodemon
+>npm-font-open-sans
+>react
+>react-bootstrap
+>react-dom
+>react-router-dom
+>react-scripts
